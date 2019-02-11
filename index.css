@@ -3,7 +3,7 @@ body{
     padding: 0px;
 }
 #noGroup{
-    background-color: lightblue;
+    background-color: rgb(247, 212, 97);
     width:100%;
     font-size: 45px;
     color:white;
@@ -34,10 +34,10 @@ body{
         background-image: url(images/banner-1.jpg);
     }
     25%{
-        background-image: url(images/project_img2.jpg);
+        background-image: url(images/banner-1.jpg);
     }
     50%{
-        background-image: url(images/8.jpg);
+        background-image: url(images/banner-2.jpg);
     }
     75%{
         background-image: url(images/banner-1.jpg);
@@ -95,7 +95,7 @@ padding-left: 220px;
     height: 74vh;
     margin-top: 5px;
     padding: 0px; 
-    background-color:lightblue; 
+    background-color:rgb(247, 212, 97); 
     background-repeat: no-repeat;
     text-align: center;
 }
